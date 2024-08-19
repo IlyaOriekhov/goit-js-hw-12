@@ -6,7 +6,7 @@ export default function fetchingGallery() {
 
   async function fetchingGalleryPage(userRequest) {
     const searchParams = new URLSearchParams({
-      key: '44842729-8004d444f82c9829d0058eeb4',
+      key: '45523690-8d1bfda1291a3399214d9e199',
       q: userRequest,
       image_type: 'photo',
       orientation: 'horizontal',
